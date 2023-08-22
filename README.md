@@ -1,1 +1,2 @@
 # CryptoClustering
+In this challenge, most coding was done while referencing the lectures and in-class activities. The primary code I needed to look up was how to composite the two graphs at the end to show them side-by-side in order to compare them.
